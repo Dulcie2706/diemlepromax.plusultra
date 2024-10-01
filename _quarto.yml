@@ -1,0 +1,20 @@
+project:
+  type: book
+
+book:
+  title: "diem"
+  author: "Norah Jones"
+  date: "1/10/2024"
+  chapters:
+    - index.qmd
+    - baocao_Rt_Soi_2024.qmd
+
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
